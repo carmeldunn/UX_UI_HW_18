@@ -1,0 +1,129 @@
+@import url("https://use.typekit.net/bzh4vmg.css");
+
+:root {
+  --main-color: #E6BD10;
+  --black: black;
+  --bg:grey;
+  --border:.1rem solid #1414AF;
+}
+
+*{
+  font-family: "Museo", "Avenir", serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  text-transform: capitalize;
+  transition: .2s linear;
+}
+
+body {
+    background-color: white;
+    font-family: "Avenir";
+  }
+  
+  .header {
+    background-color: #1414AF;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem 7%;
+    border-bottom: var(--border);
+    position: sticky;
+    top:0; left:0; right:0;
+    z-index: 1000;
+  }
+  
+  .header .logo {
+    height: 6rem;
+  }
+  
+  .header .navbar a {
+    margin: 0 1rem;
+    font-size:small;
+    color: #fff;
+  }
+  
+  
+  .header .navbar a:hover {
+    color:var(--main-color);
+    border-bottom: .1rem solid var(--main-color);
+    padding-bottom: .5rem;
+  }
+  
+.image {
+    max-width: auto;
+    height: auto;
+    padding: 1.5rem 7%;
+    padding-top: 5%;
+    display: flex;
+    align-items: center;
+    background: rgb(red, green, blue);
+  }
+  
+  
+  footer {
+    background-color: #1414AF;
+    height:auto;
+    width:100vw;
+    font-family: "Museo";
+    padding-top: 40px;
+    color: #fff;
+  }
+  
+  .footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .logo {
+    height: 4rem;
+    width: auto;
+  }
+  footer-content h3{
+    font-size: 1.8rem;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 3rem;
+    letter-spacing: 1px;
+    color: #fff;
+  }
+  
+  .footer-content p {
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 28px;
+    font-size: 14px;
+    color: #fff;
+  }
+  
+  .fa-linkedin {
+    color: #fff;
+  }
+  
+  .fa-vimeo {
+    color: #fff;
+  }
+  
+  a:link {
+    color:white;
+    text-transform: lowercase;
+    letter-spacing: 1px;
+    font-family:"Avenir";
+    font-weight:normal;
+  }
+  a:hover {
+    color: #E6BD10;
+  }
+  
+  button {
+    font-family: "avenir";
+  }
+  
+/* NEW Style Sheet for CS1 Starts Here*/ 
+ 

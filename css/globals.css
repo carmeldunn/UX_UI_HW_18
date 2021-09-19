@@ -1,0 +1,77 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+@font-face {
+  font-family: "Museo-900";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/.1984.otf") format("opentype");
+}
+@font-face {
+  font-family: "Museo-500";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/museo500-regular.otf") format("opentype");
+}
+@font-face {
+  font-family: "Avenir-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/AvenirLTStd-Medium.otf") format("opentype");
+}
+@font-face {
+  font-family: "Avenir-Black";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/Avenir-Black-03.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Avenir-Book";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/AvenirArabic-Book.otf") format("opentype");
+}
+@font-face {
+  font-family: "Avenir-Heavy";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Avenir-Heavy-05.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HelveticaNeue-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/HLB.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HelveticaNeue-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/HelveticaNeue-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Museo-700";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Museo700-Regular.otf") format("opentype");
+}
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}

@@ -1,0 +1,570 @@
+/* screen - about */
+
+.about {
+  align-items: center;
+  background-color: var(--carnation-pink);
+  display: flex;
+  flex-direction: column;
+  height: 6178px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.about .overlap-group4 {
+  height: 3462px;
+  margin-left: 1.0px;
+  position: relative;
+  width: 2787px;
+}
+
+.about .carmel-dunn-bac-ncewall-1414-af {
+  height: 2177px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2787px;
+}
+
+.about .lorem-ipsum-dolor {
+  color: var(--white);
+  font-family: var(--font-family-museo);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  height: 720px;
+  left: 849px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 1104px;
+  width: 1090px;
+}
+
+.about .text-1 {
+  height: 99px;
+  left: 849px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 1104px;
+  width: 1090px;
+}
+
+.about .text-2 {
+  height: 116px;
+  left: 849px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 1898px;
+  width: 1090px;
+}
+
+.about .group-355 {
+  background-image: url(../img/carmeldunn-resume@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1419px;
+  left: 849px;
+  position: absolute;
+  top: 2043px;
+  width: 1088px;
+}
+
+.about .group-617 {
+  align-items: center;
+  background-color: var(--carnation-pink-2);
+  display: flex;
+  height: 270px;
+  left: 433px;
+  min-width: 1920px;
+  padding: 45.9px 190.1px;
+  position: absolute;
+  top: 0;
+}
+
+.about .group-616 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  min-width: 169px;
+  padding: 0 0.0px;
+}
+
+.about .overlap-group {
+  height: 169px;
+  position: relative;
+  width: 169px;
+}
+
+.about .group-327 {
+  align-items: flex-end;
+  background-image: url(../img/path-234@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 169px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 169px;
+}
+
+.about .path-235 {
+  height: 0;
+  margin-bottom: 21.5px;
+  margin-left: 28.5px;
+  object-fit: cover;
+  width: 0;
+}
+
+.about .carmel-dunn-logo {
+  height: 141px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 141px;
+}
+
+.about .uxui-designer {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 730px;
+  margin-top: 32.0px;
+  min-height: 24px;
+  min-width: 134px;
+  white-space: nowrap;
+}
+
+.about .text-13 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 48px;
+  margin-top: 32.0px;
+  min-height: 24px;
+  min-width: 208px;
+  white-space: nowrap;
+}
+
+.about .about-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 60px;
+  margin-top: 32.0px;
+  min-height: 24px;
+  min-width: 55px;
+  white-space: nowrap;
+}
+
+.about .place {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 37px;
+  margin-top: 32.0px;
+  min-height: 24px;
+  min-width: 71px;
+  white-space: nowrap;
+}
+
+.about .flex-row {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  margin-right: 416.0px;
+  margin-top: 21px;
+  min-width: 105px;
+}
+
+.about .search {
+  background-image: url(../img/path-99@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 26px;
+  width: 26px;
+}
+
+.about .overlap-group3 {
+  height: 26px;
+  margin-bottom: -0.46px;
+  margin-left: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.about .down-arrow {
+  display: flex;
+  height: 20px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.about .path-10 {
+  flex: 1;
+  margin-bottom: -0.3px;
+  margin-left: 0;
+  margin-right: 1.0px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 20.3486328125px;
+}
+
+.about .path-240 {
+  height: 19px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 40px;
+}
+
+.about .text-4 {
+  height: 116px;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-left: 2.0px;
+  margin-top: 55px;
+  width: 1090px;
+}
+
+.about .span1 {
+  color: var(--tulip-tree);
+  font-family: var(--font-family-museo-700);
+  font-size: var(--font-size-xl);
+}
+
+.about .flex-row-1 {
+  align-items: flex-end;
+  align-self: flex-start;
+  display: flex;
+  margin-left: 416px;
+  margin-top: 6px;
+  min-width: 219px;
+}
+
+.about .linkedin-logo {
+  height: 81px;
+  object-fit: cover;
+  width: 81px;
+}
+
+.about .vimeo-logo {
+  height: 59px;
+  margin-left: 70px;
+  object-fit: cover;
+  width: 68px;
+}
+
+.about .text-3 {
+  height: 116px;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-left: 2.0px;
+  margin-top: 138px;
+  width: 1090px;
+}
+
+.about .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 0;
+  margin-top: 6px;
+  min-width: 1088px;
+}
+
+.about .group-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 447px;
+  min-width: 479px;
+}
+
+.about .img370 {
+  height: 446px;
+  object-fit: cover;
+  width: 478px;
+}
+
+.about .path-24 {
+  align-self: flex-end;
+  height: 0;
+  margin-bottom: 0;
+  object-fit: cover;
+  width: 0;
+}
+
+.about .group-352 {
+  align-items: flex-start;
+  display: flex;
+  height: 447px;
+  justify-content: flex-end;
+  margin-left: 130px;
+  min-width: 479px;
+}
+
+.about .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 18.0px;
+  margin-top: 16px;
+  min-width: 1106px;
+}
+
+.about .text-5 {
+  height: 85px;
+  letter-spacing: 0;
+  line-height: 40px;
+  width: 481px;
+}
+
+.about .text-10 {
+  height: 122px;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-left: 144px;
+  width: 481px;
+}
+
+.about .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 0.45px;
+  margin-top: 6px;
+  min-width: 1088px;
+}
+
+.about .group-353 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 130px;
+  min-height: 447px;
+  width: 478px;
+}
+
+.about .screen-shot-202-18-at-95239-pm {
+  height: 446px;
+  margin-left: 0;
+  object-fit: cover;
+  width: 478px;
+}
+
+.about .path-243 {
+  height: 0;
+  margin-left: 0.45px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 0;
+}
+
+.about .flex-row-5 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 18.0px;
+  margin-top: 15px;
+  min-width: 1106px;
+}
+
+.about .text {
+  height: 123px;
+  letter-spacing: 0;
+  line-height: 40px;
+  width: 481px;
+}
+
+.about .text-9 {
+  height: 123px;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-left: 144px;
+  width: 481px;
+}
+
+.about .flex-row-6 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 0.66px;
+  margin-top: 43px;
+  min-width: 1087px;
+}
+
+.about .group-356 {
+  background-image: url(../img/img-3700@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 446px;
+  width: 478px;
+}
+
+.about .group-357 {
+  background-image: url(../img/img-3703@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 446px;
+  margin-left: 131px;
+  width: 478px;
+}
+
+.about .flex-row-7 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 16px;
+  min-width: 1090px;
+}
+
+.about .text-8 {
+  height: 123px;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-left: 128px;
+  width: 481px;
+}
+
+.about .group-625 {
+  align-items: flex-end;
+  display: flex;
+  margin-top: 89px;
+  min-width: 1920px;
+}
+
+.about .overlap-group2 {
+  height: 260px;
+  margin-bottom: 0;
+  position: relative;
+  width: 1920px;
+}
+
+.about .footer-7 {
+  align-items: center;
+  background-color: var(--carnation-pink-2);
+  border: 1px solid #95989a;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 260px;
+  padding: 36.0px 682px;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.about .overlap-group-1 {
+  height: 42px;
+  margin-right: 18.0px;
+  margin-top: 67px;
+  position: relative;
+  width: 206px;
+}
+
+.about .lets-connect {
+  color: var(--white);
+  font-family: var(--font-family-avenir-heavy);
+  font-size: var(--font-size-s);
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.about .text-11 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.about .social {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 10.06px;
+  margin-top: 11px;
+  min-width: 147px;
+  padding: 0.0px 0;
+}
+
+.about .path-40 {
+  height: 25px;
+  object-fit: cover;
+  width: 25px;
+}
+
+.about .path-39 {
+  align-self: flex-end;
+  height: 24px;
+  margin-bottom: 0;
+  margin-left: 40px;
+  object-fit: cover;
+  width: 29px;
+}
+
+.about .path-38 {
+  height: 25px;
+  margin-left: 40px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 13px;
+}
+
+.about .text-12 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-top: 16px;
+  min-height: 27px;
+  min-width: 514px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.about .overlap-group1 {
+  height: 58px;
+  left: 931px;
+  position: absolute;
+  top: 28px;
+  width: 58px;
+}
+
+.about .group-617-1 {
+  display: flex;
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 58px;
+}
+
+.about .group-327-1 {
+  align-items: flex-end;
+  background-image: url(../img/path-234-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 58.48028564453125px;
+  width: 58.48046875px;
+}
+
+.about .path-235-1 {
+  height: 0;
+  object-fit: cover;
+  width: 0;
+}
+
+.about .carmel-dunn-logo-1 {
+  height: 50px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 50px;
+}

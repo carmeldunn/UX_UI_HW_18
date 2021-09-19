@@ -1,0 +1,104 @@
+:root { 
+  --black: #000000;
+  --carnation-pink: #1415af;
+  --dove-gray: #707070;
+  --perano: #a3b0f8;
+  --white: #ffffff;
+ 
+  --font-size-l: 30px;
+  --font-size-m: 25px;
+  --font-size-s: 18px;
+  --font-size-xl: 40px;
+  --font-size-xs: 15px;
+  --font-size-xxl: 80px;
+  --font-size-xxxl: 100px;
+ 
+  --font-family-avenir: "Avenir", Helvetica;
+  --font-family-avenir-black: "Avenir-Black", Helvetica;
+  --font-family-avenir-book: "Avenir-Book", Helvetica;
+  --font-family-avenir-heavy: "Avenir-Heavy", Helvetica;
+  --font-family-avenir-medium: "Avenir-Medium", Helvetica;
+  --font-family-helveticaneue-bold: "HelveticaNeue-Bold", Helvetica;
+  --font-family-helveticaneue-regular: "HelveticaNeue-Regular", Helvetica;
+  --font-family-museo: "Museo", Helvetica;
+  --font-family-museo-500: "Museo-500", Helvetica;
+  --font-family-museo-700: "Museo-700", Helvetica;
+  --font-family-museo-900: "Museo-900", Helvetica;
+}
+.avenir-medium-dove-gray-25px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.museo-900-normal-carnation-pink-40px {
+  color: var(--carnation-pink);
+  font-family: var(--font-family-museo-900);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-black-dove-gray-25px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-avenir-black);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.museo-medium-dove-gray-40px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-museo);
+  font-size: var(--font-size-xl);
+}
+
+.helveticaneue-bold-carnation-pink-80px {
+  color: var(--carnation-pink);
+  font-family: var(--font-family-helveticaneue-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.avenir-medium-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.helveticaneue-bold-carnation-pink-40px {
+  color: var(--carnation-pink);
+  font-family: var(--font-family-helveticaneue-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.avenir-medium-dove-gray-30px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.museo-700-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-museo-700);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.helveticaneue-regular-normal-dove-gray-25px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-helveticaneue-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
